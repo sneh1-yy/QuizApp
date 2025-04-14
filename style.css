@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Martel+Sans:wght@200;300;400;600;700;800;900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    height: 100h;
+    background-color: blue;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#box
+{
+    padding: 10px;
+    margin: 10px;
+    width: 40%;
+    height: 270px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.row{
+    padding: 5px;
+    width: 100%;
+}
+
+.btn{
+    width: 100%;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: rgb(99, 99, 251);
+    border-radius: 5px;
+    
+}
